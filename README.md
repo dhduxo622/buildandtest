@@ -1,0 +1,3 @@
+# buildandtest
+testscriptd
+hekllo tets
